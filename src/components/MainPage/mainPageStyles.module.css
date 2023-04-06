@@ -15,8 +15,8 @@
 }
 
 .rickMortyLogo {
-    max-width: 600px;
-    max-height: 200px;
+    max-width: 100%;
+    height: auto;
 }
 
 .form{
