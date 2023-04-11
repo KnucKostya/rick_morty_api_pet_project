@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rick_morty_api_pet_project/static/css/main.cef5a641.css",
+    "main.js": "/rick_morty_api_pet_project/static/js/main.776c4347.js",
+    "static/js/787.0ec721a3.chunk.js": "/rick_morty_api_pet_project/static/js/787.0ec721a3.chunk.js",
+    "static/media/rick_and_morty_logo.png": "/rick_morty_api_pet_project/static/media/rick_and_morty_logo.b74a8fccc60de5296996.png",
+    "static/media/Eclipse_loader.gif": "/rick_morty_api_pet_project/static/media/Eclipse_loader.ad3b3864dcf0ae7f83f8.gif",
+    "index.html": "/rick_morty_api_pet_project/index.html",
+    "main.cef5a641.css.map": "/rick_morty_api_pet_project/static/css/main.cef5a641.css.map",
+    "main.776c4347.js.map": "/rick_morty_api_pet_project/static/js/main.776c4347.js.map",
+    "787.0ec721a3.chunk.js.map": "/rick_morty_api_pet_project/static/js/787.0ec721a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cef5a641.css",
+    "static/js/main.776c4347.js"
+  ]
+}
